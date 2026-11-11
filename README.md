@@ -2,7 +2,7 @@
 
 <img src="docs/icon.png" width="96" alt="">
 
-# ChatGameTool
+# GameChatTool
 
 <p dir="rtl"><b>اكتب رسالتك براحتك بأي لغة، والصقها في شات اللعبة.</b></p>
 <p dir="ltr"><b>Type your message comfortably in any language, then paste it into the game chat.</b></p>
@@ -11,14 +11,14 @@
 
 <br>
 
-## [⬇️ تحميل ChatGameTool لويندوز · Download for Windows](https://github.com/AzooozeM/ChatGameTool/releases/latest/download/ChatGameToolSetup.exe)
+## [⬇️ تحميل GameChatTool لويندوز · Download for Windows](https://github.com/AzooozeM/GameChatTool/releases/latest/download/GameChatToolSetup.exe)
 
 <p dir="rtl">مثبّت صغير · بدون صلاحيات مسؤول · مجاني</p>
 <p dir="ltr">Small installer · No admin rights · Free</p>
 
 <br>
 
-<img src="docs/screenshot.png" width="760" alt="ChatGameTool">
+<img src="docs/screenshot.png" width="760" alt="GameChatTool">
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ### طريقة الاستخدام
 
-1. **حمّل** `ChatGameToolSetup.exe` من الزر فوق.
+1. **حمّل** `GameChatToolSetup.exe` من الزر فوق.
 2. **ثبّته وشغّله**. تظهر أيقونته جنب الساعة.
 3. **داخل اللعبة** اضغط <kbd>Alt</kbd> + <kbd>Enter</kbd>، اكتب رسالتك، واضغط <kbd>Enter</kbd> عشان تنسخها.
 4. **افتح شات اللعبة** بنفسك، والصق بـ <kbd>Ctrl</kbd> + <kbd>V</kbd>، ثم <kbd>Enter</kbd>.
@@ -66,7 +66,7 @@
 
 ### How to use
 
-1. **Download** `ChatGameToolSetup.exe` from the button above.
+1. **Download** `GameChatToolSetup.exe` from the button above.
 2. **Install and run it.** Its icon appears next to the clock.
 3. **In the game**, press <kbd>Alt</kbd> + <kbd>Enter</kbd>, type your message, and press <kbd>Enter</kbd> to copy it.
 4. **Open the game chat** yourself, paste with <kbd>Ctrl</kbd> + <kbd>V</kbd>, then press <kbd>Enter</kbd>.
@@ -98,7 +98,7 @@ It never stores your messages, never reads the clipboard, and keeps copied messa
 
 <div align="center">
 
-<p dir="rtl">مشكلة أو اقتراح؟ <a href="https://github.com/AzooozeM/ChatGameTool/issues">افتح بلاغ</a></p>
-<p dir="ltr">Found a problem? <a href="https://github.com/AzooozeM/ChatGameTool/issues">Open an issue</a></p>
+<p dir="rtl">مشكلة أو اقتراح؟ <a href="https://github.com/AzooozeM/GameChatTool/issues">افتح بلاغ</a></p>
+<p dir="ltr">Found a problem? <a href="https://github.com/AzooozeM/GameChatTool/issues">Open an issue</a></p>
 
 </div>
